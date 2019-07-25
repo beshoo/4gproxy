@@ -1,4 +1,4 @@
-You can build yourself 4g proxy just 2 steps
+How to build youself 4g proxies
 
 1. Download and Install allproxy app from google play.
 2. Click connect button, you will get a proxy address, your phone network is published with this address.
