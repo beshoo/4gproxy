@@ -1,0 +1,7 @@
+#Tunnel服务地址
+serverAddr: conn2.trs.ai:9082
+#代理协议
+protocols:
+  - name: http
+#not required,
+#userId: client16
