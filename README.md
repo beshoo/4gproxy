@@ -54,6 +54,6 @@ Valid Options:
         The working directory,default is the current directory
 
 ## Free Server
-+ conn2.trs.ai  (China)
-+ conn4.trs.ai   (US)
-+ conn3.trs.ai   (My test env, so not stable)
++ conn2.trs.ai:9082  (China)
++ conn4.trs.ai:9082   (US)
++ conn3.trs.ai:9082   (My test env, so not stable)
