@@ -8,7 +8,10 @@ Allproxy provides a easy to make your 4g proxy, it suporrts most of platform, an
 1. Download and Install allproxy app from google play.
 2. Click connect button, you will get a proxy address, your phone network is published with this address.
 
-## Windows/Macos/Raspeberry/Other Linux
+## IOS
+1. In auditing
+
+## Windows/MacOs/Raspeberry/openWrt/Other Linux...
 1. Change the server address in conf_client.yaml or just use my free servers
 2. Open allproxyC
 
@@ -49,7 +52,7 @@ Valid Options:
 
   -userId string
         The user id
-        
+
   -w string
         The working directory,default is the current directory
 
@@ -57,3 +60,6 @@ Valid Options:
 + conn2.trs.ai:9082  (China)
 + conn4.trs.ai:9082   (US)
 + conn3.trs.ai:9082   (My test env, so not stable)
+
+## Contact me
+If you want to use your self allproxy server to make better security and speed, pls feel free to contact me by email/skype: mailme.xu@gmail.com
