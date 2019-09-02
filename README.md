@@ -55,6 +55,10 @@ Valid Options:
 
   -w string
         The working directory,default is the current directory
+		
+## Advance usage
+- 20190902
+If you have multiple network interfaces in your machine, and you want create proxy for each interface, you can set the local address in config file.
 
 ## Free Server
 + conn2.trs.ai:9082  (China)
