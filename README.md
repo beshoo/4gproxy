@@ -15,6 +15,13 @@ Allproxy provides a easy to make your 4g proxy, it suporrts most of platform, an
 1. Change the server address in conf_client.yaml or just use my free servers
 2. Open allproxyC
 
+## Notes for PC client
+It will generate a file "proxy.info" in the working directory, which contains the proxies infomation, the content likes:
+```
+{"proxies":
+{"d3a849f6c55ea765058bc72ded1cfd91":{"connectedAt":"2019-09-03 14:08:08 +0800","proxyUrl":"http://192.168.2.100:53636"},"6d5ada3b1b0f9fadde94c6dc081dba69":{"connectedAt":"2019-09-03 14:08:08 +0800","proxyUrl":"http://192.168.2.100:53625"}}}
+```
+
 ## Install PC client as server
 1. You need to assign [execute] permission for allproxyC in linux env
 ```bash
