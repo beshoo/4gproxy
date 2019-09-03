@@ -57,8 +57,12 @@ Valid Options:
         The working directory,default is the current directory
 		
 ## Advance usage
-- 20190902
+- After build 20190902
+  
 If you have multiple network interfaces in your machine, and you want create proxy for each interface, you can set the local address in config file.
+
+## Limitations
+- You can create at most 2 proxies in one free PC client.
 
 ## Free Server
 + conn2.trs.ai:9082  (China)
