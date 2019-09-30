@@ -72,7 +72,7 @@ If you have multiple network interfaces in your machine, and you want create pro
 - You can create at most 2 proxies in one free PC client.
 
 ## Free Server
-+ conn2.trs.ai:9082  (China)
++ conn2.trs.ai:9082  (US)
 + conn4.trs.ai:9082   (US)
 + conn3.trs.ai:9082   (My test env, so not stable)
 
