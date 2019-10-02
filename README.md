@@ -22,7 +22,7 @@ It will generate a file "proxy.info" in the working directory, which contains th
 {"d3a849f6c55ea765058bc72ded1cfd91":{"connectedAt":"2019-09-03 14:08:08 +0800","proxyUrl":"http://192.168.2.100:53636"},"6d5ada3b1b0f9fadde94c6dc081dba69":{"connectedAt":"2019-09-03 14:08:08 +0800","proxyUrl":"http://192.168.2.100:53625"}}}
 ```
 
-## Install PC client as server
+## Install PC client as service
 1. You need to assign [execute] permission for allproxyC in linux env
 ```bash
 chmod +x allproxyC
